@@ -1,0 +1,15 @@
+1.Zoho Corporation
+2.Tata Consultancy Services(TCS)
+3.Ramco Systems
+4.HCL Technologies
+5.Tech Mahindra
+6.Wipro
+7.Sify Technologies
+8.Hexaware Technologies
+9.Intelizest Technologies
+10.Chargebee
+11.Innotical Solutions Pvt Ltd
+12.Photon Infotech
+13.Kaar Technologies
+14.Mindtree
+15.UST Global
